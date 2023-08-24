@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4abf79e906bf743ad9db12e403a359d5, type: 3}
+  m_Name: TileSettings
+  m_EditorClassIdentifier: 
+  AnimationTime: 0.2
+  AnimationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 3.0379322
+      outSlope: 3.0379322
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.03183024
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.8655261
+      outSlope: 0.8655261
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.065390766
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  TileColors:
+  - value: 2
+    fgColor: {r: 0, g: 0, b: 0, a: 1}
+    bgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+  - value: 4
+    fgColor: {r: 0, g: 0, b: 0, a: 1}
+    bgColor: {r: 1, g: 0.9098039, b: 0.83137256, a: 1}
+  - value: 8
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 1, g: 0.7294118, b: 0.49411765, a: 1}
+  - value: 16
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 1, g: 0.49803922, b: 0.24705882, a: 1}
+  - value: 32
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 1, g: 0.34117648, b: 0.31764707, a: 1}
+  - value: 64
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 1, g: 0.22745098, b: 0.2, a: 1}
+  - value: 128
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 1, g: 0.85882354, b: 0.5882353, a: 1}
+  - value: 256
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 1, g: 0.7607843, b: 0.29803923, a: 1}
+  - value: 512
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 1, g: 0.69803923, b: 0.11372549, a: 1}
+  - value: 1024
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 0.77254903, g: 0.50980395, b: 0, a: 1}
+  - value: 2048
+    fgColor: {r: 1, g: 0.96862745, b: 0.9411765, a: 1}
+    bgColor: {r: 1, g: 0.9019608, b: 0, a: 1}

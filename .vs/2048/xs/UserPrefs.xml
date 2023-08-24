@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{FAA271DF-0D6E-151F-8354-B1EDE5043471}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI/ScoreDisplay.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TileManager.cs" Line="26" Column="49" />
+      <File FileName="Assets/Scripts/Input/KeyboardInputManager.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Input/IInputManager.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/Input/MultipleInputManager.cs" Line="12" Column="30" />
+      <File FileName="Assets/Scripts/Input/SwipeInputManager.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/UI/GameOverScreen.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/UI/GameTimer.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/UI/MoveCounter.cs" Line="17" Column="12" />
+      <File FileName="Assets/Scripts/UI/ScoreDisplay.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/Input/InputResult.cs" Line="9" Column="2" />
+      <File FileName="Assets/Scripts/Data/GameState.cs" Line="9" Column="2" />
+      <File FileName="Assets/Scripts/Data/TileColor.cs" Line="7" Column="19" />
+      <File FileName="Assets/Scripts/Data/TileSettings.cs" Line="9" Column="2" />
+      <File FileName="Assets/Scripts/Tile.cs" Line="18" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2048" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Data" expanded="True" />
+                <Node name="Input" expanded="True" />
+                <Node name="UI" expanded="True">
+                  <Node name="ScoreDisplay.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="88032aaa-8f14-4741-acb5-707b38b6c6e9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
